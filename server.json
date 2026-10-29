@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/jodi",
   "title": "Jodi",
   "description": "JODI Oil + Gas — monthly production, consumption, imports, exports and closing stocks by country…",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/jodi",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-jodi",
