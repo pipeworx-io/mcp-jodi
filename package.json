@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-jodi",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "JODI Oil + Gas — monthly production, consumption, imports, exports and closing stocks by country, self-reported to the Joint Organisations Data Initiative (APEC/Eurostat/GECF/IEA/IEF/OLADE/OPEC/UNSD). Fleet #1297.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "jodi",
     "gatewaySlug": "jodi",
-    "sourceHash": "v1-506df6f02edb83009e6e904f5a9b9743d3b71e398023f5fc2d478d4a1d0234bc",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-bd45487f2e52071a8816310d0d267526d6f719ee45c4a986e0e40edf622e3aa2",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
